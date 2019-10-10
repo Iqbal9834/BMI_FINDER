@@ -1,6 +1,7 @@
 # converter
 
 A new Flutter project.
+In this individuals calculate their body mass index by entering height and their respective weight.
 
 ## Getting Started
 
